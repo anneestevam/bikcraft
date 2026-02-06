@@ -23,10 +23,7 @@
 .header-menu li {
     display: inline-block;
     padding: 16px 0;
-    font-size: 18px;
     position: relative;
-    font-family: 'Poppins';
-    font-weight: 400;
 }
 
 .header-menu li:after {
