@@ -11,7 +11,9 @@
     align-items: center;
 }
 
-
+#seguros .seguros {
+    padding-top: 0;
+}
 
 .seguros h2 {
     grid-column: 1/-1; /* aqui o h2 vai pegar de uma ponta até a outra. sem esse grid-colum, a segunda div ficaria desalinhada e ficaia abaixo */
