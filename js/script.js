@@ -67,6 +67,6 @@ galeria.forEach(eventosGaleria);
 
 
 // Animação
-if(window.SimpleAnime){
+if(window.SimpleAnime){ // esse if é para nao dar erro caso o plugin nao esteja presente na pagina
     new SimpleAnime();
 }
