@@ -1,0 +1,24 @@
+{
+  "name": "bikcraft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anneestevam/bikcraft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anneestevam/bikcraft/issues"
+  },
+  "homepage": "https://github.com/anneestevam/bikcraft#readme",
+  "devDependencies": {
+    "clean-css-cli": "^5.6.3"
+  }
+}
